@@ -1,3 +1,3 @@
 # networks_and_internets
 
-![Alt text](ipsummary1?raw=true)
+![Alt text](ipsummary1.png?raw=true)
