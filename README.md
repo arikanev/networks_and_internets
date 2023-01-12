@@ -8,3 +8,8 @@
 ![Alt text](routingtable1.png?raw=true)
 ![Alt text](routingtable2.png?raw=true)
 ![Alt text](routingtable3.png?raw=true)
+
+## Use arp to discover hosts that are on the same network
+
+![Alt text](arp1.png?raw=true)
+![Alt text](arp2.png?raw=true)
