@@ -43,14 +43,13 @@
 ## Use arp to discover hosts that are on the same network
 
 ![Alt text](PrivateNetwork/arp1.png?raw=true)
-![Alt text](PrivateNetwork/arp2.png?raw=true)
 
 
 ## Use ping to make contact with:
 ### A host you discovered via arp
 ![Alt text](PrivateNetwork/ping1.png?raw=true)
 ### The default router
-
+![Alt text](PrivateNetwork/ping2.png?raw=true)
 ### One of your domain name servers
 
 ### www.lmu.edu
