@@ -88,3 +88,10 @@
 ![Alt text](PrivateNetwork/dig1.png?raw=true)
 ### www.gmail.com
 ![Alt text](PrivateNetwork/dig2.png?raw=true)
+
+## Use nmap to see what ports are open on these hosts
+
+### www.lmu.edu
+![Alt text](PrivateNetwork/nmap1.png?raw=true)
+### www.gmail.com
+![Alt text](PrivateNetwork/nmap2.png?raw=true)
