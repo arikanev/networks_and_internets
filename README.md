@@ -76,8 +76,8 @@
 ### The default router
 ![Alt text](PrivateNetwork/traceroute2.png?raw=true)
 ### One of your domain name servers
-![Alt text](PrivateNetwork/traceroute3.png?raw=true)
+![Alt text](PrivateNetwork/traceroute2.png?raw=true)
 ### www.lmu.edu
-![Alt text](PrivateNetwork/traceroute4.png?raw=true)
+![Alt text](PrivateNetwork/traceroute3.png?raw=true)
 ### A host on the Internet (most likely a website, but for more variety, see if you can find a different kind of public host, such as a game server, mail server, chat server, or cloud storage)
-![Alt text](PrivateNetwork/traceroute5.png?raw=true)
+![Alt text](PrivateNetwork/traceroute4.png?raw=true)
