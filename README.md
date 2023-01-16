@@ -99,3 +99,4 @@
 
 ## Use nmap to see what ports are open on one of the intermediate "stops" discovered by traceroute to any host outside of your network
 ![Alt text](PrivateNetwork/nmap3.png?raw=true)
+Certain intermediate stops are not getting pinged, host seems down. Wonder why?
