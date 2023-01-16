@@ -81,3 +81,9 @@
 ![Alt text](PrivateNetwork/traceroute3.png?raw=true)
 ### A host on the Internet (most likely a website, but for more variety, see if you can find a different kind of public host, such as a game server, mail server, chat server, or cloud storage)
 ![Alt text](PrivateNetwork/traceroute4.png?raw=true)
+
+## For www.lmu.edu and the chosen Internet host, use dig to discover their IP addresses
+
+### www.lmu.edu
+
+### www.gmail.com
