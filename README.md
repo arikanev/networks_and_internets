@@ -28,6 +28,18 @@
 
 ### A host on the Internet (most likely a website, but for more variety, see if you can find a different kind of public host, such as a game server, mail server, chat server, or cloud storage)
 
+## Use traceroute to discover the path taken to these same hosts
+
+### A host you discovered via arp
+
+### The default router
+
+### One of your domain name servers
+
+### www.lmu.edu
+
+### A host on the Internet (most likely a website, but for more variety, see if you can find a different kind of public host, such as a game server, mail server, chat server, or cloud storage)
+
 # Private Network (HOME)
 
 ## Get your computer's IP address, subnet mask, router, and domain name server(s)
@@ -56,3 +68,16 @@
 ![Alt text](PrivateNetwork/ping4.png?raw=true)
 ### A host on the Internet (most likely a website, but for more variety, see if you can find a different kind of public host, such as a game server, mail server, chat server, or cloud storage)
 ![Alt text](PrivateNetwork/ping5.png?raw=true)
+
+## Use traceroute to discover the path taken to these same hosts
+
+### A host you discovered via arp
+![Alt text](PrivateNetwork/traceroute1.png?raw=true)
+### The default router
+![Alt text](PrivateNetwork/traceroute2.png?raw=true)
+### One of your domain name servers
+![Alt text](PrivateNetwork/traceroute3.png?raw=true)
+### www.lmu.edu
+![Alt text](PrivateNetwork/traceroute4.png?raw=true)
+### A host on the Internet (most likely a website, but for more variety, see if you can find a different kind of public host, such as a game server, mail server, chat server, or cloud storage)
+![Alt text](PrivateNetwork/traceroute5.png?raw=true)
