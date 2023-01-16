@@ -95,3 +95,6 @@
 ![Alt text](PrivateNetwork/nmap1.png?raw=true)
 ### www.gmail.com
 ![Alt text](PrivateNetwork/nmap2.png?raw=true)
+
+
+## Use nmap to see what ports are open on one of the intermediate "stops" discovered by traceroute to any host outside of your network
