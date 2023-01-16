@@ -85,5 +85,6 @@
 ## For www.lmu.edu and the chosen Internet host, use dig to discover their IP addresses
 
 ### www.lmu.edu
-
+![Alt text](PrivateNetwork/dig1.png?raw=true)
 ### www.gmail.com
+![Alt text](PrivateNetwork/dig2.png?raw=true)
