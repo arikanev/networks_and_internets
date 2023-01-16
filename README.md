@@ -48,7 +48,7 @@
 
 ## Use ping to make contact with:
 ### A host you discovered via arp
-
+![Alt text](PrivateNetwork/ping1.png?raw=true)
 ### The default router
 
 ### One of your domain name servers
