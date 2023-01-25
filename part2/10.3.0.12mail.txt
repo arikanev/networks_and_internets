@@ -1,0 +1,1680 @@
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902210
+  ack       = 2842848399
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 229
+  chksum    = 0xd5c4
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86440441, 2673889272))]
+###[ Raw ]### 
+     load      = '1 capability\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884059
+  ack       = 1053624481
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 229
+  chksum    = 0xacb1
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86440446, 2678951675))]
+###[ Raw ]### 
+     load      = '1 capability\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902224
+  ack       = 2842848516
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 229
+  chksum    = 0xbf84
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86444874, 2673889372))]
+###[ Raw ]### 
+     load      = '3 login "jason.smith164@aol.com" "soopersekrit"\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884073
+  ack       = 1053624598
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 229
+  chksum    = 0x9696
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86444877, 2678951740))]
+###[ Raw ]### 
+     load      = '3 login "jason.smith164@aol.com" "soopersekrit"\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902273
+  ack       = 2842848754
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 245
+  chksum    = 0xb22e
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86444926, 2673893833))]
+###[ Raw ]### 
+     load      = '4 namespace\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884122
+  ack       = 1053624836
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 245
+  chksum    = 0x8942
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86444932, 2678956196))]
+###[ Raw ]### 
+     load      = '4 namespace\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902286
+  ack       = 2842848812
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 245
+  chksum    = 0xfdca
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86444982, 2673893890))]
+###[ Raw ]### 
+     load      = '5 ID ("name" "Thunderbird" "version" "10.0.10")\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884135
+  ack       = 1053624894
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 245
+  chksum    = 0xd4eb
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86444982, 2678956246))]
+###[ Raw ]### 
+     load      = '5 ID ("name" "Thunderbird" "version" "10.0.10")\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902335
+  ack       = 2842848921
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 245
+  chksum    = 0x5c01
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445005, 2673893913))]
+###[ Raw ]### 
+     load      = '6 lsub "" "*"\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884184
+  ack       = 1053625003
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 245
+  chksum    = 0x3316
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445011, 2678956275))]
+###[ Raw ]### 
+     load      = '6 lsub "" "*"\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902350
+  ack       = 2842849203
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0xbdca
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445033, 2673893940))]
+###[ Raw ]### 
+     load      = '7 list "" "INBOX"\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884199
+  ack       = 1053625285
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x94e2
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445037, 2678956301))]
+###[ Raw ]### 
+     load      = '7 list "" "INBOX"\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902369
+  ack       = 2842849261
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x7916
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445058, 2673893965))]
+###[ Raw ]### 
+     load      = '8 select "Sent"\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884218
+  ack       = 1053625343
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x4d44
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445068, 2678956326))]
+###[ Raw ]### 
+     load      = '8 select "INBOX"\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902386
+  ack       = 2842849879
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 281
+  chksum    = 0x10b9
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445120, 2673894028))]
+###[ Raw ]### 
+     load      = '9 getquotaroot "Sent"\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884236
+  ack       = 1053625961
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 281
+  chksum    = 0xe4e5
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445128, 2678956391))]
+###[ Raw ]### 
+     load      = '9 getquotaroot "INBOX"\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902409
+  ack       = 2842849928
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 281
+  chksum    = 0x189f
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445142, 2673894051))]
+###[ Raw ]### 
+     load      = '10 UID fetch 1:* (FLAGS)\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884260
+  ack       = 1053626011
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 281
+  chksum    = 0xefad
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445150, 2678956414))]
+###[ Raw ]### 
+     load      = '10 UID fetch 1:* (FLAGS)\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902435
+  ack       = 2842850081
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x1902
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445202, 2673894097))]
+###[ Raw ]### 
+     load      = '11 IDLE\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884286
+  ack       = 1053626162
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xf021
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445203, 2678956452))]
+###[ Raw ]### 
+     load      = '11 IDLE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902444
+  ack       = 2842850092
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x2a38
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86458449, 2673894144))]
+###[ Raw ]### 
+     load      = 'DONE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902450
+  ack       = 2842850114
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xd7a1
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86458489, 2673907397))]
+###[ Raw ]### 
+     load      = '12 STATUS "Saved" (UIDNEXT MESSAGES UNSEEN RECENT)\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902502
+  ack       = 2842850198
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xb02a
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86458522, 2673907430))]
+###[ Raw ]### 
+     load      = '13 IDLE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902511
+  ack       = 2842850209
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xf3ec
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86458853, 2673907455))]
+###[ Raw ]### 
+     load      = 'DONE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902517
+  ack       = 2842850231
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xb4a9
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86458912, 2673907820))]
+###[ Raw ]### 
+     load      = '14 STATUS "Trash" (UIDNEXT MESSAGES UNSEEN RECENT)\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902569
+  ack       = 2842850314
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xac2b
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86458941, 2673907849))]
+###[ Raw ]### 
+     load      = '15 IDLE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902578
+  ack       = 2842850325
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xeff2
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86459256, 2673907887))]
+###[ Raw ]### 
+     load      = 'DONE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902584
+  ack       = 2842850347
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x3f23
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86459278, 2673908186))]
+###[ Raw ]### 
+     load      = '16 STATUS "Drafts" (UIDNEXT MESSAGES UNSEEN RECENT)\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902637
+  ack       = 2842850433
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xa867
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86459328, 2673908237))]
+###[ Raw ]### 
+     load      = '17 IDLE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902646
+  ack       = 2842850444
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xec31
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86459658, 2673908259))]
+###[ Raw ]### 
+     load      = 'DONE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902652
+  ack       = 2842850466
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xa9a9
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86459680, 2673908588))]
+###[ Raw ]### 
+     load      = '18 STATUS "Spam" (UIDNEXT MESSAGES UNSEEN RECENT)\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902703
+  ack       = 2842850548
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xa48f
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86459729, 2673908637))]
+###[ Raw ]### 
+     load      = '19 IDLE\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883459850
+  ack       = 147823988
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 245
+  chksum    = 0x727a
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86474666, 3150530040))]
+###[ Raw ]### 
+     load      = 'EHLO [10.3.0.12]\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883459868
+  ack       = 147824197
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x8487
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86479607, 3150530072))]
+###[ Raw ]### 
+     load      = 'AUTH PLAIN AGphc29uLnNtaXRoMTY0QGFvbC5jb20Ac29vcGVyc2lrcml0\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883459929
+  ack       = 147824261
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x9af4
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86479746, 3150535120))]
+###[ Raw ]### 
+     load      = 'AUTH LOGIN\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883459941
+  ack       = 147824279
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0xdbe7
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86479809, 3150535183))]
+###[ Raw ]### 
+     load      = 'amFzb24uc21pdGgxNjRAYW9sLmNvbQ==\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883459975
+  ack       = 147824297
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0xf271
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86479873, 3150535247))]
+###[ Raw ]### 
+     load      = 'c29vcGVyc2lrcml0\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883459993
+  ack       = 147824361
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x4733
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86489831, 3150535281))]
+###[ Raw ]### 
+     load      = 'AUTH PLAIN AGphc29uLnNtaXRoMTY0QGFvbC5jb20Ac29vcGVyc2Vrcml0\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883460054
+  ack       = 147824398
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0xdf9
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86489899, 3150545273))]
+###[ Raw ]### 
+     load      = 'MAIL FROM:<jason.smith164@aol.com> SIZE=1332\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883460100
+  ack       = 147824412
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x4f39
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86490447, 3150545820))]
+###[ Raw ]### 
+     load      = 'RCPT TO:<edith_jones599@hotmail.com>\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883460138
+  ack       = 147824426
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0xfb87
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86490494, 3150545869))]
+###[ Raw ]### 
+     load      = 'DATA\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883460144
+  ack       = 147824463
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x189d
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86490516, 3150545891))]
+###[ Raw ]### 
+     load      = "Message-ID: <5156E70C.9010505@aol.com>\r\nDate: Sat, 30 Mar 2013 06:22:20 -0700\r\nFrom: Jason Smith <jason.smith164@aol.com>\r\nUser-Agent: Mozilla/5.0 (X11; Linux i686; rv:10.0.10) Gecko/20121029 Thunderbird/10.0.10\r\nMIME-Version: 1.0\r\nTo: edith_jones599@hotmail.com\r\nSubject: Diagnosis\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\n\r\nDear Mrs. Jones,\r\n\r\nThank you for your visit today.  I am sorry that I wasn't able to \r\nprovide an immediate diagnosis, but I wanted to more thoroughly research \r\nyour symptoms in the medical literature.\r\n\r\nBased on your mood swings (from extreme happiness to extreme depression) \r\nand your insomnia combined with high energy, I am most confidant that \r\nyou are suffering from bipolar disorder.  Please make an appointment as \r\nsoon as possible so that we can start you on a medicinal regimen.  With \r\nthe right medications, there is no reason that your condition cannot be \r\ncompletely managed.\r\n\r\nOf course, I will keep this information in the strictest confidence.  We \r\nhave completed switched our office over to electronic medical records, \r\nwhich are stored in encrypted form and our network security is \r\nsecond-to-none.  I cannot imagine how anyone could ever get this \r\nsensitive medical information.\r\n\r\nBest Regards,\r\n\r\nJason L. Smith, MD\r\n\r\n"
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883461476
+  ack       = 147824463
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x637f
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86490516, 3150545891))]
+###[ Raw ]### 
+     load      = '.\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883461479
+  ack       = 147824501
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0xeeb6
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491151, 3150546526))]
+###[ Raw ]### 
+     load      = 'QUIT\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902712
+  ack       = 2842850559
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x6ec1
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491173, 2673908675))]
+###[ Raw ]### 
+     load      = 'DONE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902718
+  ack       = 2842850581
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x7531
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491204, 2673940109))]
+###[ Raw ]### 
+     load      = '20 append "Sent" (\\Seen) {1332+}\r\nMessage-ID: <5156E70C.9010505@aol.com>\r\nDate: Sat, 30 Mar 2013 06:22:20 -0700\r\nFrom: Jason Smith <jason.smith164@aol.com>\r\nUser-Agent: Mozilla/5.0 (X11; Linux i686; rv:10.0.10) Gecko/20121029 Thunderbird/10.0.10\r\nMIME-Version: 1.0\r\nTo: edith_jones599@hotmail.com\r\nSubject: Diagnosis\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\n\r\nDear Mrs. Jones,\r\n\r\nThank you for your visit today.  I am sorry that I wasn\'t able to \r\nprovide an immediate diagnosis, but I wanted to more thoroughly research \r\nyour symptoms in the medical literature.\r\n\r\nBased on your mood swings (from extreme happiness to extreme depression) \r\nand your insomnia combined with high energy, I am most confidant that \r\nyou are suffering from bipolar disorder.  Please make an appointment as \r\nsoon as possible so that we can start you on a medicinal regimen.  With \r\nthe right medications, there is no reason that your condition cannot be \r\ncompletely managed.\r\n\r\nOf course, I will keep this information in the strictest confidence.  We \r\nhave completed switched our office over to electronic medical records, \r\nwhich are stored in encrypted form and our network security is \r\nsecond-to-none.  I cannot imagine how anyone could ever get this \r\nsensitive medical information.\r\n\r\nBest Regards,\r\n\r\nJason L. Smith, MD\r\n\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522904084
+  ack       = 2842850581
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x80fd
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491205, 2673940109))]
+###[ Raw ]### 
+     load      = '\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522904086
+  ack       = 2842850635
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x50c2
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491320, 2673940228))]
+###[ Raw ]### 
+     load      = '21 noop\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522904095
+  ack       = 2842850657
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x5013
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491440, 2673940251))]
+###[ Raw ]### 
+     load      = '22 noop\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522904104
+  ack       = 2842850679
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xa489
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491463, 2673940372))]
+###[ Raw ]### 
+     load      = '23 getquotaroot "Sent"\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522904128
+  ack       = 2842850729
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x6d5e
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491492, 2673940400))]
+###[ Raw ]### 
+     load      = '24 UID fetch 261:* (FLAGS)\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522904156
+  ack       = 2842850812
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x32b4
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491537, 2673940441))]
+###[ Raw ]### 
+     load      = '25 UID fetch 261 (UID RFC822.SIZE FLAGS BODY.PEEK[HEADER.FIELDS (From To Cc Bcc Subject Date Message-ID Priority X-Priority References Newsgroups In-Reply-To Content-Type)])\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522904331
+  ack       = 2842851286
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 320
+  chksum    = 0xa17d
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491582, 2673940467))]
+###[ Raw ]### 
+     load      = '26 IDLE\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884295
+  ack       = 1053626173
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x735e
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86494801, 2678956493))]
+###[ Raw ]### 
+     load      = 'DONE\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884301
+  ack       = 1053626195
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x15d6
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86494846, 2679006090))]
+###[ Raw ]### 
+     load      = '12 noop\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884310
+  ack       = 1053626217
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x8780
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86494880, 2679006144))]
+###[ Raw ]### 
+     load      = '13 getquotaroot "INBOX"\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884335
+  ack       = 1053626268
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x3455
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86494906, 2679006170))]
+###[ Raw ]### 
+     load      = '14 UID fetch 258:* (FLAGS)\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884363
+  ack       = 1053626419
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 320
+  chksum    = 0x6a23
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86494942, 2679006193))]
+###[ Raw ]### 
+     load      = '15 IDLE\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884372
+  ack       = 1053626430
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 320
+  chksum    = 0xb2e8
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86498819, 2679006228))]
+###[ Raw ]### 
+     load      = 'DONE\r\n16 close\r\n17 logout\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522904340
+  ack       = 2842851297
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 320
+  chksum    = 0xdc0e
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86498819, 2673940521))]
+###[ Raw ]### 
+     load      = 'DONE\r\n27 close\r\n28 logout\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902210
+  ack       = 2842848399
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 229
+  chksum    = 0xd5c4
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86440441, 2673889272))]
+###[ Raw ]### 
+     load      = '1 capability\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884059
+  ack       = 1053624481
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 229
+  chksum    = 0xacb1
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86440446, 2678951675))]
+###[ Raw ]### 
+     load      = '1 capability\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902224
+  ack       = 2842848516
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 229
+  chksum    = 0xbf84
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86444874, 2673889372))]
+###[ Raw ]### 
+     load      = '3 login "jason.smith164@aol.com" "soopersekrit"\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884073
+  ack       = 1053624598
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 229
+  chksum    = 0x9696
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86444877, 2678951740))]
+###[ Raw ]### 
+     load      = '3 login "jason.smith164@aol.com" "soopersekrit"\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902273
+  ack       = 2842848754
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 245
+  chksum    = 0xb22e
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86444926, 2673893833))]
+###[ Raw ]### 
+     load      = '4 namespace\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884122
+  ack       = 1053624836
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 245
+  chksum    = 0x8942
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86444932, 2678956196))]
+###[ Raw ]### 
+     load      = '4 namespace\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902286
+  ack       = 2842848812
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 245
+  chksum    = 0xfdca
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86444982, 2673893890))]
+###[ Raw ]### 
+     load      = '5 ID ("name" "Thunderbird" "version" "10.0.10")\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884135
+  ack       = 1053624894
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 245
+  chksum    = 0xd4eb
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86444982, 2678956246))]
+###[ Raw ]### 
+     load      = '5 ID ("name" "Thunderbird" "version" "10.0.10")\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902335
+  ack       = 2842848921
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 245
+  chksum    = 0x5c01
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445005, 2673893913))]
+###[ Raw ]### 
+     load      = '6 lsub "" "*"\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884184
+  ack       = 1053625003
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 245
+  chksum    = 0x3316
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445011, 2678956275))]
+###[ Raw ]### 
+     load      = '6 lsub "" "*"\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902350
+  ack       = 2842849203
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0xbdca
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445033, 2673893940))]
+###[ Raw ]### 
+     load      = '7 list "" "INBOX"\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884199
+  ack       = 1053625285
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x94e2
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445037, 2678956301))]
+###[ Raw ]### 
+     load      = '7 list "" "INBOX"\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902369
+  ack       = 2842849261
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x7916
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445058, 2673893965))]
+###[ Raw ]### 
+     load      = '8 select "Sent"\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884218
+  ack       = 1053625343
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x4d44
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445068, 2678956326))]
+###[ Raw ]### 
+     load      = '8 select "INBOX"\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902386
+  ack       = 2842849879
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 281
+  chksum    = 0x10b9
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445120, 2673894028))]
+###[ Raw ]### 
+     load      = '9 getquotaroot "Sent"\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884236
+  ack       = 1053625961
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 281
+  chksum    = 0xe4e5
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445128, 2678956391))]
+###[ Raw ]### 
+     load      = '9 getquotaroot "INBOX"\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902409
+  ack       = 2842849928
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 281
+  chksum    = 0x189f
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445142, 2673894051))]
+###[ Raw ]### 
+     load      = '10 UID fetch 1:* (FLAGS)\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884260
+  ack       = 1053626011
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 281
+  chksum    = 0xefad
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445150, 2678956414))]
+###[ Raw ]### 
+     load      = '10 UID fetch 1:* (FLAGS)\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902435
+  ack       = 2842850081
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x1902
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445202, 2673894097))]
+###[ Raw ]### 
+     load      = '11 IDLE\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884286
+  ack       = 1053626162
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xf021
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86445203, 2678956452))]
+###[ Raw ]### 
+     load      = '11 IDLE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902444
+  ack       = 2842850092
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x2a38
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86458449, 2673894144))]
+###[ Raw ]### 
+     load      = 'DONE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902450
+  ack       = 2842850114
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xd7a1
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86458489, 2673907397))]
+###[ Raw ]### 
+     load      = '12 STATUS "Saved" (UIDNEXT MESSAGES UNSEEN RECENT)\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902502
+  ack       = 2842850198
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xb02a
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86458522, 2673907430))]
+###[ Raw ]### 
+     load      = '13 IDLE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902511
+  ack       = 2842850209
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xf3ec
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86458853, 2673907455))]
+###[ Raw ]### 
+     load      = 'DONE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902517
+  ack       = 2842850231
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xb4a9
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86458912, 2673907820))]
+###[ Raw ]### 
+     load      = '14 STATUS "Trash" (UIDNEXT MESSAGES UNSEEN RECENT)\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902569
+  ack       = 2842850314
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xac2b
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86458941, 2673907849))]
+###[ Raw ]### 
+     load      = '15 IDLE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902578
+  ack       = 2842850325
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xeff2
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86459256, 2673907887))]
+###[ Raw ]### 
+     load      = 'DONE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902584
+  ack       = 2842850347
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x3f23
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86459278, 2673908186))]
+###[ Raw ]### 
+     load      = '16 STATUS "Drafts" (UIDNEXT MESSAGES UNSEEN RECENT)\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902637
+  ack       = 2842850433
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xa867
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86459328, 2673908237))]
+###[ Raw ]### 
+     load      = '17 IDLE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902646
+  ack       = 2842850444
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xec31
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86459658, 2673908259))]
+###[ Raw ]### 
+     load      = 'DONE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902652
+  ack       = 2842850466
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xa9a9
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86459680, 2673908588))]
+###[ Raw ]### 
+     load      = '18 STATUS "Spam" (UIDNEXT MESSAGES UNSEEN RECENT)\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902703
+  ack       = 2842850548
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xa48f
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86459729, 2673908637))]
+###[ Raw ]### 
+     load      = '19 IDLE\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883459850
+  ack       = 147823988
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 245
+  chksum    = 0x727a
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86474666, 3150530040))]
+###[ Raw ]### 
+     load      = 'EHLO [10.3.0.12]\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883459868
+  ack       = 147824197
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x8487
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86479607, 3150530072))]
+###[ Raw ]### 
+     load      = 'AUTH PLAIN AGphc29uLnNtaXRoMTY0QGFvbC5jb20Ac29vcGVyc2lrcml0\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883459929
+  ack       = 147824261
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x9af4
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86479746, 3150535120))]
+###[ Raw ]### 
+     load      = 'AUTH LOGIN\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883459941
+  ack       = 147824279
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0xdbe7
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86479809, 3150535183))]
+###[ Raw ]### 
+     load      = 'amFzb24uc21pdGgxNjRAYW9sLmNvbQ==\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883459975
+  ack       = 147824297
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0xf271
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86479873, 3150535247))]
+###[ Raw ]### 
+     load      = 'c29vcGVyc2lrcml0\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883459993
+  ack       = 147824361
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x4733
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86489831, 3150535281))]
+###[ Raw ]### 
+     load      = 'AUTH PLAIN AGphc29uLnNtaXRoMTY0QGFvbC5jb20Ac29vcGVyc2Vrcml0\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883460054
+  ack       = 147824398
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0xdf9
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86489899, 3150545273))]
+###[ Raw ]### 
+     load      = 'MAIL FROM:<jason.smith164@aol.com> SIZE=1332\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883460100
+  ack       = 147824412
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x4f39
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86490447, 3150545820))]
+###[ Raw ]### 
+     load      = 'RCPT TO:<edith_jones599@hotmail.com>\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883460138
+  ack       = 147824426
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0xfb87
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86490494, 3150545869))]
+###[ Raw ]### 
+     load      = 'DATA\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883460144
+  ack       = 147824463
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x189d
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86490516, 3150545891))]
+###[ Raw ]### 
+     load      = "Message-ID: <5156E70C.9010505@aol.com>\r\nDate: Sat, 30 Mar 2013 06:22:20 -0700\r\nFrom: Jason Smith <jason.smith164@aol.com>\r\nUser-Agent: Mozilla/5.0 (X11; Linux i686; rv:10.0.10) Gecko/20121029 Thunderbird/10.0.10\r\nMIME-Version: 1.0\r\nTo: edith_jones599@hotmail.com\r\nSubject: Diagnosis\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\n\r\nDear Mrs. Jones,\r\n\r\nThank you for your visit today.  I am sorry that I wasn't able to \r\nprovide an immediate diagnosis, but I wanted to more thoroughly research \r\nyour symptoms in the medical literature.\r\n\r\nBased on your mood swings (from extreme happiness to extreme depression) \r\nand your insomnia combined with high energy, I am most confidant that \r\nyou are suffering from bipolar disorder.  Please make an appointment as \r\nsoon as possible so that we can start you on a medicinal regimen.  With \r\nthe right medications, there is no reason that your condition cannot be \r\ncompletely managed.\r\n\r\nOf course, I will keep this information in the strictest confidence.  We \r\nhave completed switched our office over to electronic medical records, \r\nwhich are stored in encrypted form and our network security is \r\nsecond-to-none.  I cannot imagine how anyone could ever get this \r\nsensitive medical information.\r\n\r\nBest Regards,\r\n\r\nJason L. Smith, MD\r\n\r\n"
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883461476
+  ack       = 147824463
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0x637f
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86490516, 3150545891))]
+###[ Raw ]### 
+     load      = '.\r\n'
+###[ TCP ]### 
+  sport     = 54658
+  dport     = smtp
+  seq       = 1883461479
+  ack       = 147824501
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 262
+  chksum    = 0xeeb6
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491151, 3150546526))]
+###[ Raw ]### 
+     load      = 'QUIT\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902712
+  ack       = 2842850559
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x6ec1
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491173, 2673908675))]
+###[ Raw ]### 
+     load      = 'DONE\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522902718
+  ack       = 2842850581
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x7531
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491204, 2673940109))]
+###[ Raw ]### 
+     load      = '20 append "Sent" (\\Seen) {1332+}\r\nMessage-ID: <5156E70C.9010505@aol.com>\r\nDate: Sat, 30 Mar 2013 06:22:20 -0700\r\nFrom: Jason Smith <jason.smith164@aol.com>\r\nUser-Agent: Mozilla/5.0 (X11; Linux i686; rv:10.0.10) Gecko/20121029 Thunderbird/10.0.10\r\nMIME-Version: 1.0\r\nTo: edith_jones599@hotmail.com\r\nSubject: Diagnosis\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\n\r\nDear Mrs. Jones,\r\n\r\nThank you for your visit today.  I am sorry that I wasn\'t able to \r\nprovide an immediate diagnosis, but I wanted to more thoroughly research \r\nyour symptoms in the medical literature.\r\n\r\nBased on your mood swings (from extreme happiness to extreme depression) \r\nand your insomnia combined with high energy, I am most confidant that \r\nyou are suffering from bipolar disorder.  Please make an appointment as \r\nsoon as possible so that we can start you on a medicinal regimen.  With \r\nthe right medications, there is no reason that your condition cannot be \r\ncompletely managed.\r\n\r\nOf course, I will keep this information in the strictest confidence.  We \r\nhave completed switched our office over to electronic medical records, \r\nwhich are stored in encrypted form and our network security is \r\nsecond-to-none.  I cannot imagine how anyone could ever get this \r\nsensitive medical information.\r\n\r\nBest Regards,\r\n\r\nJason L. Smith, MD\r\n\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522904084
+  ack       = 2842850581
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x80fd
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491205, 2673940109))]
+###[ Raw ]### 
+     load      = '\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522904086
+  ack       = 2842850635
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x50c2
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491320, 2673940228))]
+###[ Raw ]### 
+     load      = '21 noop\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522904095
+  ack       = 2842850657
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x5013
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491440, 2673940251))]
+###[ Raw ]### 
+     load      = '22 noop\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522904104
+  ack       = 2842850679
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0xa489
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491463, 2673940372))]
+###[ Raw ]### 
+     load      = '23 getquotaroot "Sent"\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522904128
+  ack       = 2842850729
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x6d5e
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491492, 2673940400))]
+###[ Raw ]### 
+     load      = '24 UID fetch 261:* (FLAGS)\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522904156
+  ack       = 2842850812
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x32b4
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491537, 2673940441))]
+###[ Raw ]### 
+     load      = '25 UID fetch 261 (UID RFC822.SIZE FLAGS BODY.PEEK[HEADER.FIELDS (From To Cc Bcc Subject Date Message-ID Priority X-Priority References Newsgroups In-Reply-To Content-Type)])\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522904331
+  ack       = 2842851286
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 320
+  chksum    = 0xa17d
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86491582, 2673940467))]
+###[ Raw ]### 
+     load      = '26 IDLE\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884295
+  ack       = 1053626173
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x735e
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86494801, 2678956493))]
+###[ Raw ]### 
+     load      = 'DONE\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884301
+  ack       = 1053626195
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x15d6
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86494846, 2679006090))]
+###[ Raw ]### 
+     load      = '12 noop\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884310
+  ack       = 1053626217
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x8780
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86494880, 2679006144))]
+###[ Raw ]### 
+     load      = '13 getquotaroot "INBOX"\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884335
+  ack       = 1053626268
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 301
+  chksum    = 0x3455
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86494906, 2679006170))]
+###[ Raw ]### 
+     load      = '14 UID fetch 258:* (FLAGS)\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884363
+  ack       = 1053626419
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 320
+  chksum    = 0x6a23
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86494942, 2679006193))]
+###[ Raw ]### 
+     load      = '15 IDLE\r\n'
+###[ TCP ]### 
+  sport     = 41641
+  dport     = imap
+  seq       = 4159884372
+  ack       = 1053626430
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 320
+  chksum    = 0xb2e8
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86498819, 2679006228))]
+###[ Raw ]### 
+     load      = 'DONE\r\n16 close\r\n17 logout\r\n'
+###[ TCP ]### 
+  sport     = 41640
+  dport     = imap
+  seq       = 3522904340
+  ack       = 2842851297
+  dataofs   = 8
+  reserved  = 0
+  flags     = PA
+  window    = 320
+  chksum    = 0xdc0e
+  urgptr    = 0
+  options   = [('NOP', None), ('NOP', None), ('Timestamp', (86498819, 2673940521))]
+###[ Raw ]### 
+     load      = 'DONE\r\n27 close\r\n28 logout\r\n'
