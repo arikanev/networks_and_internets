@@ -19,26 +19,26 @@
 
 ## Use ping to make contact with:
 ### A host you discovered via arp
-
+![Alt text](LMU/ping1.png?raw=true)
 ### The default router
-
+![Alt text](LMU/ping2.png?raw=true)
 ### One of your domain name servers
-
+![Alt text](LMU/ping3.png?raw=true)
 ### www.lmu.edu
-
+![Alt text](LMU/ping4.png?raw=true)
 ### A host on the Internet (most likely a website, but for more variety, see if you can find a different kind of public host, such as a game server, mail server, chat server, or cloud storage)
-
+![Alt text](LMU/ping5.png?raw=true)
 ## Use traceroute to discover the path taken to these same hosts
-
 ### A host you discovered via arp
-
+![Alt text](LMU/traceroute1.png?raw=true)
 ### The default router
-
+![Alt text](LMU/traceroute2.png?raw=true)
 ### One of your domain name servers
-
+![Alt text](LMU/traceroute3.png?raw=true)
 ### www.lmu.edu
-
+![Alt text](LMU/traceroute4.png?raw=true)
 ### A host on the Internet (most likely a website, but for more variety, see if you can find a different kind of public host, such as a game server, mail server, chat server, or cloud storage)
+![Alt text](LMU/traceroute5.png?raw=true)
 
 # Private Network (HOME)
 
