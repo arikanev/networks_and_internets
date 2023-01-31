@@ -1,6 +1,6 @@
 # networks_and_internets
 
-# LMU
+# LMU - #1
 
 ## Get your computer's IP address, subnet mask, router, and domain name server(s)
 ![Alt text](LMU/ipsummary1.png?raw=true)
@@ -40,7 +40,48 @@
 ### A host on the Internet (most likely a website, but for more variety, see if you can find a different kind of public host, such as a game server, mail server, chat server, or cloud storage)
 ![Alt text](LMU/traceroute5.png?raw=true)
 
-# Private Network (HOME)
+# LMU - #2
+
+## Get your computer's IP address, subnet mask, router, and domain name server(s)
+![Alt text](LMU/ipsummary1-2.png?raw=true)
+![Alt text](LMU/ipsummary2-2.png?raw=true)
+![Alt text](LMU/ipsummary3-2.png?raw=true)
+## Examine your computer's full routing table
+![Alt text](LMU/routingtable1-2.png?raw=true)
+![Alt text](LMU/routingtable2-2.png?raw=true)
+![Alt text](LMU/routingtable3-2.png?raw=true)
+
+## Use arp to discover hosts that are on the same network
+
+![Alt text](LMU/arp1-2.png?raw=true)
+![Alt text](LMU/arp2-2.png?raw=true)
+
+
+## Use ping to make contact with:
+### A host you discovered via arp
+![Alt text](LMU/ping1-2.png?raw=true)
+### The default router
+![Alt text](LMU/ping2-2.png?raw=true)
+### One of your domain name servers
+![Alt text](LMU/ping3-2.png?raw=true)
+### www.lmu.edu
+![Alt text](LMU/ping4-2.png?raw=true)
+### A host on the Internet (most likely a website, but for more variety, see if you can find a different kind of public host, such as a game server, mail server, chat server, or cloud storage)
+![Alt text](LMU/ping5-2.png?raw=true)
+## Use traceroute to discover the path taken to these same hosts
+### A host you discovered via arp
+![Alt text](LMU/traceroute1-2.png?raw=true)
+### The default router
+![Alt text](LMU/traceroute2-2.png?raw=true)
+### One of your domain name servers
+![Alt text](LMU/traceroute3-2.png?raw=true)
+### www.lmu.edu
+![Alt text](LMU/traceroute4-2.png?raw=true)
+### A host on the Internet (most likely a website, but for more variety, see if you can find a different kind of public host, such as a game server, mail server, chat server, or cloud storage)
+![Alt text](LMU/traceroute5-2.png?raw=true)
+
+
+# Private Network (HOME) - #1
 
 ## Get your computer's IP address, subnet mask, router, and domain name server(s)
 ![Alt text](PrivateNetwork/ipsummary1.png?raw=true)
