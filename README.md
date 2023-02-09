@@ -168,9 +168,9 @@ Certain intermediate stops are not getting pinged, host seems down. Wonder why?
 ### One of your domain name servers
 ![Alt text](PrivateNetwork/ping3-2.png?raw=true)
 ### www.lmu.edu
-![Alt text](PrivateNetwork/ping4-2.png?raw=true)
+![Alt text](PrivateNetwork/ping4.png?raw=true)
 ### A host on the Internet (most likely a website, but for more variety, see if you can find a different kind of public host, such as a game server, mail server, chat server, or cloud storage)
-![Alt text](PrivateNetwork/ping5-2.png?raw=true)
+![Alt text](PrivateNetwork/ping5.png?raw=true)
 
 ## Use traceroute to discover the path taken to these same hosts
 
