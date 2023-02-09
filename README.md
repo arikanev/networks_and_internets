@@ -143,7 +143,7 @@
 Certain intermediate stops are not getting pinged, host seems down. Wonder why?
 
 
-# Private Network (HOME) - #1
+# Private Network (HOME) - #2
 
 ## Get your computer's IP address, subnet mask, router, and domain name server(s)
 ![Alt text](PrivateNetwork/ipsummary1-2.png?raw=true)
