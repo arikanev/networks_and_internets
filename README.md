@@ -251,15 +251,15 @@ Certain intermediate stops are not getting pinged, host seems down. Wonder why?
 ### www.lmu.edu
 ![Alt text](PublicNetwork/dig1-2.png?raw=true)
 ### www.gmail.com
-![Alt text](PublicNetwork/dig2-2.png?raw=true)
+![Alt text](PublicNetwork/dig1-2.png?raw=true)
 
 ## Use nmap to see what ports are open on these hosts
 
 ### www.lmu.edu
-![Alt text](PublicNetwork/nmap1-2.png?raw=true)
+![Alt text](PublicNetwork/nmap1-1.png?raw=true)
 ### www.gmail.com
-![Alt text](PublicNetwork/nmap2-2.png?raw=true)
+![Alt text](PublicNetwork/nmap1-2.png?raw=true)
 
 
 ## Use nmap to see what ports are open on one of the intermediate "stops" discovered by traceroute to any host outside of your network
-![Alt text](PublicNetwork/nmap3-2.png?raw=true)
+![Alt text](PublicNetwork/nmap1-3.png?raw=true)
